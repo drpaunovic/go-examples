@@ -1,2 +1,2 @@
 # go-examples
-I am learning Golang
+I am learning Go language
